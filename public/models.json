@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Notion",
+    "description": "All-in-one workspace for notes, tasks, and databases.\nHighly customizable for personal and team productivity.",
+    "price": 0,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Notes & docs", "Task management", "Database views", "Collaboration tools"],
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjndQqBR1-JgfwoZDnMWAramovIinwm2ZPA&s"
+  },
+  {
+    "id": 2,
+    "name": "Canva",
+    "description": "Easy graphic design tool for beginners and pros.\nCreate social media posts, presentations, and more.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["1000+ templates", "Drag-and-drop editor", "Stock images", "Brand kit"],
+    "icon": "https://static.vecteezy.com/system/resources/thumbnails/048/759/334/small/canva-transparent-icon-free-png.png"
+  },
+  {
+    "id": 3,
+    "name": "Figma",
+    "description": "Collaborative interface design and prototyping tool.\nWorks directly in the browser with real-time teamwork.",
+    "price": 0,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["UI/UX design", "Real-time collaboration", "Prototyping", "Design systems"],
+    "icon": "https://camo.githubusercontent.com/6b658edad99e49b4e5101686be48f4a4a8bfa08129ca892ce9d68700898b918d/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67"
+  },
+  {
+    "id": 4,
+    "name": "Grammarly",
+    "description": "AI-powered writing assistant for grammar and clarity.\nImproves tone, style, and readability instantly.",
+    "price": 11.66,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Grammar checker", "Tone suggestions", "Plagiarism detection", "Browser extension"],
+    "icon": "https://play-lh.googleusercontent.com/6Xe9DWiMC76daosOC80Im9gqe25Q9P55LxJIGPTLbcdFkMXOur4mk8jTVxoqOaiAvAG4"
+  },
+  {
+    "id": 5,
+    "name": "Trello",
+    "description": "Visual project management tool using boards and cards.\nPerfect for organizing tasks and workflows.",
+    "price": 0,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Kanban boards", "Task tracking", "Team collaboration", "Power-ups"],
+    "icon": "https://e7.pngegg.com/pngimages/26/74/png-clipart-trello-logo-slack-atlassian-trello-blue-text-thumbnail.png"
+  },
+  {
+    "id": 6,
+    "name": "Adobe Photoshop",
+    "description": "Industry-standard photo editing and design software.\nAdvanced tools for professionals and creatives.",
+    "price": 20.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Photo editing", "Layer support", "AI tools", "Advanced filters"],
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png"
+  }
+  ]

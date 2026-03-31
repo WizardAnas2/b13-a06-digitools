@@ -10,6 +10,7 @@ const ProductCard = ({ product, addToCart }) => {
   };
 
   return (
+
     <div className="card bg-base-100 shadow-xl border border-base-300">
       <figure className="px-10 pt-10">
         <img src={product.icon} alt={product.name} className="rounded-xl h-20 w-20 object-contain" />

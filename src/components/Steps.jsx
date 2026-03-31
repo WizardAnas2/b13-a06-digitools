@@ -5,9 +5,9 @@ const Steps = () => {
       <div className="container mx-auto px-4 md:px-20 text-center">
         
         <div className="max-w-2xl mx-auto mb-16">
-          <h2 className="text-4xl font-bold mb-4">Simple, Transparent Pricing</h2>
+          <h2 className="text-4xl font-bold mb-4">Get Started in 3 Steps</h2>
           <p className="text-base-content/60 leading-relaxed">
-            Choose the plan that fits your needs. Upgrade or downgrade anytime.
+           Start using premium digital tools in minutes, not hours.
           </p>
         </div>
 

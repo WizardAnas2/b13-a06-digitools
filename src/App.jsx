@@ -12,6 +12,7 @@ import CartItem from './components/CartItem';
 import Steps from './components/Steps';
 import Pricing from './components/Pricing';
 import Footer from './components/Footer';
+import CTA from './components/CTA';
 
 function App() {
   const [products, setProducts] = useState([]);
@@ -106,6 +107,7 @@ function App() {
 
         <Steps />
         <Pricing />
+        <CTA/>
       </main>
 
       <Footer />

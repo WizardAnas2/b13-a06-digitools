@@ -2,7 +2,7 @@
 
 const Stats = () => {
   return (
-    <div className="flex justify-center my-10 px-4 py-5 bg-primary">
+    <div className="flex justify-center my-10 px-8 py-10 bg-primary">
       <div className="stats stats-vertical lg:stats-horizontal w-full max-w-5xl">
         <div className="stat place-items-center gap-3">
           <div className="stat-value text-white text-5xl">50K+</div>

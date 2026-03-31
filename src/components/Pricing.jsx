@@ -9,9 +9,9 @@ const Pricing = () => {
 
   return (
     <section className="py-20 container mx-auto px-4">
-      <h2 className="text-5xl font-bold text-center mb-3">Membership Plans</h2>
+      <h2 className="text-5xl font-bold text-center mb-3">Simple, Transparent Pricing</h2>
       <p className='text-md text-center mb-10'>Choose the plan that fits your needs. Upgrade or downgrade anytime.</p>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-3  gap-8">
         {plans.map((plan, i) => (
           <div key={i} className={`card bg-base-100 shadow-xl border ${plan.popular ? 'border-primary' : 'border-base-300'}`}>
             <div className="card-body items-center text-center">
